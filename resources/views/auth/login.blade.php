@@ -9,8 +9,8 @@
                     <div class="text-center">
                         <div>
                             <a href="/" class="">
-                                <img src="assets/images/logo-lazismu.png" alt="" height="80" class="auth-logo logo-dark mx-auto">
-                                <img src="assets/images/logo-lazismu.png" alt="" height="80" class="auth-logo logo-light mx-auto">
+                                <img src="assets/images/logo-lazismu.png" alt="" height="70" class="auth-logo logo-dark mx-auto">
+                                <img src="assets/images/logo-lazismu.png" alt="" height="70" class="auth-logo logo-light mx-auto">
                             </a>
                         </div>
 
