@@ -3,17 +3,13 @@
 @section('content')
     <div class="sw-lg-70 min-h-100 bg-foreground d-flex justify-content-center align-items-center shadow-deep py-5 full-page-content-right-border">
         <div class="sw-lg-50 px-5">
-            <div class="sh-11">
+            <div class="sh-11 mb-5">
                 <div>
                     <a href="/" class="">
                         <img src="assets/images/logo-lazismu.png" alt="" height="70" class="auth-logo logo-dark mx-auto">
                         <img src="assets/images/logo-lazismu.png" alt="" height="70" class="auth-logo logo-light mx-auto">
                     </a>
                 </div>
-            </div>
-            <div class="mb-5">
-                <h2 class="cta-1 mb-0 text-primary">Selamat Datang,</h2>
-                <h2 class="cta-1 text-primary">Daftar untuk demo data</h2>
             </div>
             <div class="mb-5">
                 <p class="h6">Please use the form to register.</p>
